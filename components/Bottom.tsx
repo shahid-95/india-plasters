@@ -46,7 +46,7 @@ export default function Bottom() {
         📞 Call
       </a>
         <a
-          href="https://wa.me/919580275258?text=Hi%20I%20want%20plaster%20service"
+          href="https://wa.me/919945294303?text=Hi%20I%20want%20plaster%20service"
           target="_blank"
           className="mt-6 inline-block w-full bg-green-500 text-white py-3 rounded-lg text-center font-medium hover:bg-green-600 transition"
         >

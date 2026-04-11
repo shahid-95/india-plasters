@@ -17,10 +17,11 @@ export default function Navbar() {
 
         {/* LOGO */}
         <div className="flex items-center gap-2">
+          <a href="#" className="hover:text-black transition">
           <div className="w-9 h-9 bg-gradient-to-r from-purple-500 to-indigo-500 rounded-lg flex items-center justify-center text-white font-bold shadow">
             IP
           </div>
-
+          </a>
           <div className="flex flex-col leading-tight">
             <span className="text-lg font-bold text-gray-800">
               India Plasters
