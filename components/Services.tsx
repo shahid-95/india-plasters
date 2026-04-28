@@ -73,7 +73,7 @@ Address: ${form.address}
 Service: ${form.service} `;
 
  window.open(
-      `https://wa.me/919580275258?text=${encodeURIComponent(message)}`,
+      `https://wa.me/919945294303?text=${encodeURIComponent(message)}`,
       "_blank"
     );
     setError("");
