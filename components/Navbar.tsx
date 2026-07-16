@@ -8,7 +8,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   const mapLink =
-    "https://www.google.com/maps/dir/?api=1&destination=Shop+No.1+Ganesh+Compound+Byachpura+Road+Budigere+Rd+Bangalore+562110";
+    "https://www.google.com/maps/dir/?api=1&destination=India+Plasters+POP+Shop+%26+Works,+Devanahalli";
 
   return (
     <nav className="w-full bg-white/90 backdrop-blur-md shadow-sm border-b sticky top-0 z-50">
